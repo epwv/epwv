@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="IMG_6031.jpeg" alt="banner" width="100%">
+  <img src="IMG_6033.png" alt="banner" width="100%">
 </p>
 
 ### about
